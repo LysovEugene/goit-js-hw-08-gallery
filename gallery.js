@@ -50,7 +50,7 @@ function onOpenModal(evt) {
 function onCloseModal() {
 
   modalWindow.classList.remove("is-open");
-  modalImg.src = "";
+  modalImg.src = " ";
 }
 
 
